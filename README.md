@@ -1,114 +1,210 @@
-# 👋 Hi, I'm Nam Le
+# Nam Le
 
-AI-powered full-stack engineer with 15+ years of experience building scalable platforms, real-time systems, IoT infrastructure, logistics solutions, and trading analytics systems.
+Senior Software Engineer · AI-First Product Engineer · Digital Transformation & Data Analytics · GeoGame Builder
 
-I specialize in backend architecture, AI-enabled workflows, operational platforms, and cross-domain software systems.
+I build software systems that transform complex real-world problems into structured, scalable, and intelligent platforms.
 
-Currently focused on:
-- AI-native applications
-- LLM & RAG integrations
-- Trading analytics systems
-- Full-stack product development
-- Real-time and distributed systems
+My current focus combines:
+
+- AI systems and agentic workflows
+- Digital transformation strategy
+- Big data analytics and decision intelligence
+- Geopolitical risk simulation
+- Product engineering and automation
 
 ---
 
-# 🚀 Core Expertise
+# About Me
 
-## Full-Stack Engineering
-- Node.js / TypeScript
-- .NET Core / C#
-- Python
-- React / Vue / Flutter
-- REST APIs
-- Microservices
-- Real-time systems
-- Distributed architectures
+I work at the intersection of:
 
-## AI & Analytics
-- LangChain
-- LlamaIndex
+```text
+Software Engineering
++ AI Systems
++ Digital Transformation
++ Data Analytics
++ Strategic Modeling
+= Intelligent Decision Platforms
+```
+
+I enjoy designing systems that help organizations:
+
+- improve operational efficiency,
+- automate workflows,
+- analyze large-scale data,
+- support strategic decisions,
+- and modernize legacy processes.
+
+---
+
+# Core Domains
+
+## AI-First Engineering
+
+Building intelligent systems powered by:
+
+- LLMs
+- AI Agents
 - RAG systems
-- Trading analytics
-- Data pipelines
-- Reinforcement learning
-- Statistical modeling
-- AI workflow automation
+- Workflow automation
+- Decision-support systems
+- Simulation engines
+- AI-assisted software delivery
 
-## Infrastructure & Operations
+Key interests:
+
+- Agent orchestration
+- Context engineering
+- Long-running workflows
+- Hybrid human-AI systems
+- AI product architecture
+
+---
+
+## Digital Transformation
+
+Experience and interests in:
+
+- Enterprise digitalization
+- Business process optimization
+- Workflow automation
+- Operational modernization
+- Platform integration
+- Data-driven management
+- Organizational technology adoption
+
+Transformation themes:
+
+- Manual → Automated
+- Fragmented → Integrated
+- Reactive → Predictive
+- Data-poor → Data-driven
+
+---
+
+## Big Data & Analytics
+
+Working with systems involving:
+
+- Large-scale operational data
+- Dashboard and KPI systems
+- Reporting pipelines
+- Business analytics
+- Data visualization
+- Forecasting and trend analysis
+- Event-driven architectures
+
+Areas of interest:
+
+- Predictive analytics
+- Strategic analytics
+- Risk analytics
+- Behavioral analytics
+- Decision intelligence
+- Real-time monitoring
+
+---
+
+## GeoGame / Strategic Simulation
+
+Building simulation platforms for geopolitical and strategic analysis.
+
+Core concepts:
+
+- Game theory
+- Scenario simulation
+- Multi-actor systems
+- Expected utility modeling
+- Strategic negotiation
+- Risk propagation
+- Monte Carlo simulation
+- What-if analysis
+
+Example topics:
+
+- US–China strategic competition
+- Trade and supply-chain pressure
+- Regional security dynamics
+- Financial weaponization
+- Policy-response modeling
+
+---
+
+# Engineering Stack
+
+## Backend
+
+- Python / FastAPI
+- Node.js / NestJS / Express
+- Java / Spring Boot
+- C# /.NET
+- RESTful APIs
+- Distributed systems
+- Event-driven systems
+- Background processing
+
+## Frontend & Mobile
+
+- React / Next.js / TypeScript
+- Flutter
+- Vue.js
+- Admin dashboards
+- Data visualization UI
+
+## Data & Infrastructure
+
+- SQL / NoSQL databases
 - Redis
-- Kafka
-- RabbitMQ
 - MongoDB
-- PostgreSQL
-- Docker
-- System optimization
+- ETL workflows
+- Docker / Docker Compose
+- AWS
+- Linux servers
+- CI/CD pipelines
 
 ---
 
-# 🌐 Domain Experience
+# Product & Business Perspective
 
-### IoT & GPS Systems
-Built fleet management and GPS tracking platforms for transport businesses and taxi operations.
+I care not only about building systems, but also about:
 
-### Logistics Platforms
-Designed and developed smart logistics and container tracking systems for cross-border operations.
+- business impact,
+- operational efficiency,
+- scalability,
+- usability,
+- and strategic value.
 
-### Healthcare Systems
-Developed healthcare monitoring and elderly care platforms with geolocation and notification systems.
+I enjoy bridging:
 
-### Trading Analytics
-Built AI-powered trading analytics, backtesting, and automation systems for quantitative traders.
-
----
-
-# 💡 Selected Projects
-
-## AutoTrading247
-AI-powered trading analytics and strategy optimization platform.
-
-## Kargo365
-Smart logistics and container tracking solution.
-
-## GroupCar GPS Platform
-Vehicle monitoring and fleet management infrastructure.
-
-## AwareCare
-Healthcare and elderly monitoring platform.
+```text
+Business
+↔ Data
+↔ Technology
+```
 
 ---
 
-# 📚 Background
+# Current Direction
 
-- Saint Petersburg Polytechnic University
-- Automated Data Processing & Control Systems
+Current focus areas:
 
-Strong foundations in:
-- Mathematics
-- Probability & Statistics
-- AI/ML fundamentals
-- System design
-- Decision theory
-
----
-
-# 🌏 Working Style
-
-- Strong ownership mindset
-- Startup-friendly
-- Fast execution
-- Cross-functional collaboration
-- Product-oriented engineering
-
-Languages:
-- Vietnamese
-- English
-- Russian
+- AI-native platforms
+- Decision intelligence systems
+- Strategic simulation engines
+- Digital transformation solutions
+- Analytics-driven products
+- AI-enhanced operational systems
 
 ---
 
-# 📎 Contact
+# Selected Keywords
 
-- GitHub
-- LinkedIn
-- Email: nam.leduy@gmail.com
+AI · Digital Transformation · Big Data · Analytics · Decision Intelligence · AI Agents · Strategic Modeling · Automation · Product Engineering · Risk Analytics · Simulation · Cloud Systems · Data-Driven Systems
+
+---
+
+# Contact
+
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- GitHub: https://github.com/YOUR-USERNAME
+- Email: your-email@example.com
